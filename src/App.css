@@ -1,0 +1,16 @@
+.app-container {
+  width: 600px;
+  height: 500px;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.red {
+  color: rgb(207, 48, 74);
+}
+
+.green {
+  color: rgb(3, 166, 109);
+}
