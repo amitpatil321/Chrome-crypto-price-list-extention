@@ -1,6 +1,8 @@
 .app-container {
-  width: 600px;
-  height: 500px;
+  width: 700px;
+  height: 300px !important;
+  /* font-family: Calibri; */
+  font-family: Cambria;
 }
 
 .align-center {
@@ -13,4 +15,13 @@
 
 .green {
   color: rgb(3, 166, 109);
+}
+
+.text-light {
+  color: #888;
+}
+
+.list-table td {
+  text-shadow: 0px 1px #888;
+  /* font-size: 14px !important; */
 }

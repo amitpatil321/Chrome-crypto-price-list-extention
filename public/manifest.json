@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "Crypto Prices",
   "version": "1.0",
   "manifest_version": 2,
@@ -21,20 +20,4 @@
       ]
     }
   ]
-=======
-    "name": "Crypto Price Watcher",
-    "description": "Crypto Price Watcher",
-    "version": "1.0",
-    "manifest_version": 3,
-    "action": {
-        "default_popup": "index.html"
-    },
-    "host_permissions": [
-        "https://api.nomics.com/*",
-        "*://*/*"
-    ],
-    "background": {
-        "service_worker": "bg.js"
-    }
->>>>>>> d63f3089bfb3eb85a5e51d2200d457b3570c3879
 }
